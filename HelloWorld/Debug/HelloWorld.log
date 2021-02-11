@@ -1,0 +1,2 @@
+﻿  HelloWorld.cpp
+C:\Users\TEvans\Desktop\Projects\cpp\HelloWorld\HelloWorld.cpp(5): error C4700: uninitialized local variable 'x' used

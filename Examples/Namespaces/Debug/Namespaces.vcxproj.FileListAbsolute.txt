@@ -1,0 +1,2 @@
+C:\Users\TEvans\Desktop\Projects\cpp\Examples\Namespaces\Debug\Namespaces.exe
+C:\Users\TEvans\Desktop\Projects\cpp\Examples\Namespaces\Debug\Namespaces.pdb

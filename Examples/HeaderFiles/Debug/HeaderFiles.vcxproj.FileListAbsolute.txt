@@ -1,0 +1,2 @@
+C:\Users\TEvans\Desktop\Projects\cpp\Examples\HeaderFiles\Debug\HeaderFiles.exe
+C:\Users\TEvans\Desktop\Projects\cpp\Examples\HeaderFiles\Debug\HeaderFiles.pdb

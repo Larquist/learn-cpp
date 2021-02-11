@@ -1,0 +1,2 @@
+C:\Users\TEvans\Desktop\Projects\cpp\Examples\Logger\Debug\Logger.exe
+C:\Users\TEvans\Desktop\Projects\cpp\Examples\Logger\Debug\Logger.pdb

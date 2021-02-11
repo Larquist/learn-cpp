@@ -1,0 +1,2 @@
+C:\Users\TEvans\Desktop\Projects\cpp\HelloWorld\Debug\HelloWorld.exe
+C:\Users\TEvans\Desktop\Projects\cpp\HelloWorld\Debug\HelloWorld.pdb
